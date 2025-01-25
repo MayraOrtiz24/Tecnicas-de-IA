@@ -1,237 +1,237 @@
-country,Purchasing Power Value,Purchasing Power Category,Safety Value,Safety Category,Health Care Value,Health Care Category,Climate Value,Climate Category,Cost of Living Value,Cost of Living Category,Property Price to Income Value,Property Price to Income Category,Traffic Commute Time Value,Traffic Commute Time Category,Pollution Value,Pollution Category,Quality of Life Value,Quality of Life Category
-Afghanistan,32.15,'Very Low',25.33,'Low',24.24,'Low',0.0,None,21.08,'Very Low',7.8,'Low',56.17,'Very High',84.44,'Very High',0.0,None
-Aland Islands,125.01,'Very High',71.81,'High',79.72,'High',0.0,None,53.44,'Low',5.33,'Low',19.05,'Very Low',18.05,'Very Low',0.0,None
-Albania,42.82,'Low',55.52,'Moderate',48.21,'Moderate',86.43,'Very High',40.85,'Low',14.88,'High',36.74,'Moderate',77.25,'High',': 104.16','Low'
-Alderney,0.0,None,83.79,'Very High',100.0,'Very High',0.0,None,0.0,None,0.0,None,5.0,'Very Low',1.72,'Very Low',0.0,None
-Algeria,27.6,'Very Low',47.54,'Moderate',54.43,'Moderate',94.82,'Very High',25.31,'Very Low',21.7,'Very High',45.09,'High',63.87,'High',': 98.83','Very Low'
-American Samoa,0.0,None,54.41,'Moderate',0.0,None,0.0,None,0.0,None,0.0,None,100.0,'Very High',78.45,'High',0.0,None
-Andorra,121.14,'Very High',84.71,'Very High',75.56,'High',0.0,None,48.09,'Low',9.03,'Moderate',13.33,'Very Low',22.98,'Low',0.0,None
-Angola,224.46,'Very High',33.71,'Low',36.58,'Low',0.0,None,42.57,'Low',8.01,'Moderate',65.43,'Very High',92.07,'Very High',0.0,None
-Anguilla,0.0,None,75.44,'High',77.08,'High',0.0,None,0.0,None,1.8399999999999999,'Very Low',0.0,None,0.0,None,0.0,None
-Antigua And Barbuda,0.0,None,42.86,'Moderate',30.56,'Low',0.0,None,0.0,None,0.0,None,35.0,'Moderate',43.1,'Moderate',0.0,None
-Argentina,40.36,'Low',36.36,'Low',68.0,'High',98.28,'Very High',32.65,'Very Low',20.05,'Very High',44.07,'High',50.81,'Moderate',': 115.06','Low'
-Armenia,36.91,'Very Low',77.81,'High',58.07,'Moderate',63.42,'High',41.84,'Low',20.95,'Very High',29.31,'Low',62.55,'High',': 116.56','Low'
-Aruba,71.46,'Moderate',69.23,'High',78.7,'High',0.0,None,79.42,'High',5.32,'Low',46.33,'High',35.7,'Low',0.0,None
-Australia,137.58,'Very High',52.71,'Moderate',73.35,'High',93.8,'Very High',64.5,'Moderate',8.25,'Moderate',37.48,'Moderate',26.8,'Low',': 190.69','Very High'
-Austria,109.08,'High',70.38,'High',77.83,'High',77.4,'High',62.22,'Moderate',11.76,'Moderate',23.77,'Very Low',20.73,'Low',': 192.07','Very High'
-Azerbaijan,41.75,'Low',68.12,'High',48.31,'Moderate',91.4,'Very High',30.26,'Very Low',15.24,'High',40.63,'Moderate',72.69,'High',': 113.51','Low'
-Bahamas,58.59,'Low',43.76,'Moderate',39.52,'Low',0.0,None,81.3,'High',5.32,'Low',27.69,'Low',61.34,'High',0.0,None
-Bahrain,114.56,'Very High',75.28,'High',66.6,'High',64.31,'High',48.79,'Low',4.9,'Very Low',30.74,'Low',71.57,'High',': 158.68','High'
-Bangladesh,36.16,'Very Low',38.79,'Low',42.2,'Moderate',71.29,'High',20.76,'Very Low',12.26,'High',57.57,'Very High',85.31,'Very High',': 74.51','Very Low'
-Barbados,46.93,'Low',55.14,'Moderate',71.88,'High',0.0,None,70.6,'Moderate',14.67,'High',36.67,'Moderate',24.39,'Low',0.0,None
-Belarus,56.24,'Low',49.99,'Moderate',48.5,'Moderate',64.37,'High',25.11,'Very Low',12.79,'High',31.2,'Low',44.94,'Moderate',': 127.48','Moderate'
-Belgium,118.62,'Very High',50.42,'Moderate',75.76,'High',86.03,'Very High',57.41,'Low',6.82,'Low',35.19,'Moderate',49.45,'Moderate',': 168.52','Very High'
-Belize,0.0,None,47.47,'Moderate',47.37,'Moderate',0.0,None,0.0,None,6.06,'Low',12.75,'Very Low',52.8,'Moderate',0.0,None
-Benin,0.0,None,62.16,'High',51.39,'Moderate',0.0,None,0.0,None,0.0,None,26.0,'Very Low',97.41,'Very High',0.0,None
-Bermuda,108.79,'High',63.7,'High',70.61,'High',0.0,None,124.77,'Very High',6.85,'Low',35.7,'Moderate',14.95,'Very Low',0.0,None
-Bhutan,74.38,'Moderate',70.45,'High',73.28,'High',0.0,None,24.92,'Very Low',14.07,'High',2.95,'Very Low',48.82,'Moderate',0.0,None
-Bolivia,43.04,'Low',35.0,'Low',45.98,'Moderate',0.0,None,25.28,'Very Low',12.54,'High',39.94,'Moderate',71.92,'High',0.0,None
-Bonaire,0.0,None,62.95,'High',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None
-Bosnia And Herzegovina,63.66,'Moderate',58.3,'Moderate',55.62,'Moderate',80.48,'Very High',32.01,'Very Low',13.12,'High',26.15,'Very Low',59.68,'Moderate',': 134.51','Moderate'
-Botswana,64.6,'Moderate',47.3,'Moderate',61.12,'High',88.87,'Very High',40.05,'Low',118.01,'Very High',28.53,'Low',46.09,'Moderate',': 36.55','Very Low'
-Brazil,42.13,'Low',35.36,'Low',59.21,'Moderate',94.31,'Very High',27.14,'Very Low',15.4,'High',40.63,'Moderate',52.84,'Moderate',': 115.99','Low'
-British Virgin Islands,0.0,None,59.31,'Moderate',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,68.1,'High',0.0,None
-Brunei,119.26,'Very High',70.7,'High',75.37,'High',0.0,None,46.73,'Low',6.97,'Low',27.3,'Low',35.49,'Low',0.0,None
-Bulgaria,77.66,'Moderate',63.73,'High',58.15,'Moderate',82.76,'Very High',35.86,'Very Low',9.22,'Moderate',29.05,'Low',62.94,'High',': 144.49','Moderate'
-Burkina Faso,0.0,None,61.16,'High',49.31,'Moderate',0.0,None,0.0,None,1.25,'Very Low',50.0,'High',0.0,None,0.0,None
-Burundi,0.0,None,43.44,'Moderate',34.44,'Low',0.0,None,0.0,None,20.67,'Very High',33.0,'Low',87.84,'Very High',0.0,None
-Cambodia,26.95,'Very Low',48.19,'Moderate',50.71,'Moderate',59.43,'Moderate',34.38,'Very Low',26.77,'Very High',28.0,'Low',77.77,'High',': 78.92','Very Low'
-Cameroon,10.02,'Very Low',34.53,'Low',45.53,'Moderate',0.0,None,37.61,'Very Low',46.06,'Very High',46.0,'High',93.71,'Very High',0.0,None
-Canada,111.31,'Very High',54.34,'Moderate',68.82,'High',55.41,'Moderate',60.55,'Moderate',10.47,'Moderate',33.53,'Low',29.8,'Low',': 164.54','Very High'
-Cape Verde,18.09,'Very Low',49.87,'Moderate',67.71,'High',0.0,None,38.51,'Very Low',17.12,'Very High',15.33,'Very Low',81.03,'Very High',0.0,None
-Cayman Islands,123.25,'Very High',69.25,'High',62.28,'High',0.0,None,108.7,'Very High',8.64,'Moderate',18.89,'Very Low',23.96,'Low',0.0,None
-Central African Republic,0.0,None,15.89,'Very Low',41.67,'Moderate',0.0,None,0.0,None,8.5,'Moderate',5.0,'Very Low',84.83,'Very High',0.0,None
-Chad,20.21,'Very Low',32.16,'Low',44.21,'Moderate',0.0,None,46.23,'Low',2.69,'Very Low',6.0,'Very Low',60.56,'High',0.0,None
-Chile,51.47,'Low',39.55,'Low',63.52,'High',90.21,'Very High',36.29,'Very Low',16.03,'Very High',36.04,'Moderate',77.51,'High',': 106.49','Low'
-China,78.42,'Moderate',75.82,'High',68.53,'High',79.61,'High',31.23,'Very Low',28.6,'Very High',38.9,'Moderate',77.3,'High',': 120.52','Moderate'
-Colombia,36.19,'Very Low',39.14,'Low',68.44,'High',96.69,'Very High',25.48,'Very Low',17.98,'Very High',47.15,'High',62.47,'High',': 107.90','Low'
-Comoros,41.96,'Low',52.94,'Moderate',0.0,None,0.0,None,35.91,'Very Low',11.15,'Moderate',0.0,None,0.0,None,0.0,None
-Cook Islands,0.0,None,69.08,'High',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,8.62,'Very Low',0.0,None
-Costa Rica,50.9,'Low',46.04,'Moderate',64.29,'High',99.48,'Very High',50.18,'Low',9.63,'Moderate',59.99,'Very High',42.39,'Moderate',': 129.35','Moderate'
-Croatia,83.85,'Moderate',74.54,'High',64.66,'High',89.23,'Very High',43.23,'Low',12.45,'High',25.79,'Very Low',31.1,'Low',': 176.02','Very High'
-Cuba,2.55,'Very Low',66.02,'High',59.3,'Moderate',0.0,None,41.1,'Low',48.0,'Very High',47.89,'High',65.82,'High',0.0,None
-Curacao,0.0,None,46.19,'Moderate',50.35,'Moderate',0.0,None,0.0,None,0.0,None,17.5,'Very Low',55.46,'Moderate',0.0,None
-Cyprus,84.66,'Moderate',66.9,'High',57.13,'Moderate',90.87,'Very High',50.99,'Low',8.06,'Moderate',23.59,'Very Low',54.99,'Moderate',': 158.84','High'
-Czech Republic,90.3,'High',73.64,'High',75.47,'High',79.1,'High',43.65,'Low',13.17,'High',29.12,'Low',34.78,'Low',': 174.21','Very High'
-Democratic Republic of the Congo,25.51,'Very Low',36.16,'Low',25.69,'Low',0.0,None,50.85,'Low',37.22,'Very High',75.0,'Very High',83.22,'Very High',0.0,None
-Denmark,134.75,'Very High',73.81,'High',78.5,'High',82.47,'Very High',68.9,'Moderate',6.36,'Low',27.93,'Low',20.75,'Low',': 208.65','Very High'
-Djibouti,165.89,'Very High',42.74,'Moderate',0.0,None,0.0,None,76.83,'High',12.41,'High',42.67,'High',64.6,'High',0.0,None
-Dominica,32.92,'Very Low',46.42,'Moderate',36.57,'Low',0.0,None,50.36,'Low',0.64,'Very Low',0.0,None,20.69,'Low',0.0,None
-Dominican Republic,31.82,'Very Low',39.4,'Low',58.26,'Moderate',67.82,'High',34.75,'Very Low',16.89,'Very High',40.69,'Moderate',72.8,'High',': 89.09','Very Low'
-Ecuador,45.93,'Low',37.57,'Low',75.39,'High',94.51,'Very High',30.28,'Very Low',12.0,'High',37.68,'Moderate',59.05,'Moderate',': 125.58','Moderate'
-Egypt,21.15,'Very Low',52.64,'Moderate',47.32,'Moderate',91.98,'Very High',19.46,'Very Low',17.85,'Very High',48.1,'High',82.67,'Very High',': 85.41','Very Low'
-El Salvador,33.72,'Very Low',40.58,'Moderate',51.67,'Moderate',86.6,'Very High',38.13,'Very Low',16.0,'Very High',40.39,'Moderate',75.37,'High',': 93.05','Very Low'
-Equatorial Guinea,30.87,'Very Low',52.16,'Moderate',42.59,'Moderate',0.0,None,51.87,'Low',7.15,'Low',20.5,'Very Low',59.85,'Moderate',0.0,None
-Eritrea,58.05,'Low',72.86,'High',55.56,'Moderate',0.0,None,53.58,'Low',4.41,'Very Low',0.0,None,15.52,'Very Low',0.0,None
-Estonia,83.91,'Moderate',76.37,'High',75.93,'High',64.28,'High',50.4,'Low',11.27,'Moderate',21.57,'Very Low',17.02,'Very Low',': 185.10','Very High'
-Eswatini,64.57,'Moderate',56.45,'Moderate',61.11,'High',0.0,None,24.22,'Very Low',2.8200000000000003,'Very Low',31.0,'Low',32.07,'Low',0.0,None
-Ethiopia,13.59,'Very Low',49.1,'Moderate',53.46,'Moderate',96.82,'Very High',43.89,'Low',49.87,'Very High',63.36,'Very High',73.24,'High',': 48.88','Very Low'
-Falkland Islands,0.0,None,55.64,'Moderate',0.0,None,0.0,None,0.0,None,0.0,None,40.0,'Moderate',3.45,'Very Low',0.0,None
-Faroe Islands,0.0,None,83.57,'Very High',65.08,'High',0.0,None,0.0,None,8.75,'Moderate',0.0,None,4.91,'Very Low',0.0,None
-Fiji,57.77,'Low',43.44,'Moderate',48.18,'Moderate',71.89,'High',33.42,'Very Low',6.51,'Low',40.93,'Moderate',53.44,'Moderate',': 122.12','Moderate'
-Finland,126.13,'Very High',73.57,'High',77.57,'High',58.87,'Moderate',60.04,'Moderate',8.16,'Moderate',25.56,'Very Low',11.83,'Very Low',': 203.06','Very High'
-France,111.7,'Very High',44.56,'Moderate',77.78,'High',89.71,'Very High',59.48,'Low',10.55,'Moderate',34.72,'Low',43.56,'Moderate',': 165.08','Very High'
-French Guiana,0.0,None,36.87,'Low',55.56,'Moderate',0.0,None,0.0,None,8.04,'Moderate',27.5,'Low',37.3,'Low',0.0,None
-French Polynesia,0.0,None,79.04,'High',96.3,'Very High',0.0,None,0.0,None,29.58,'Very High',30.0,'Low',52.3,'Moderate',0.0,None
-French Southern Territories,0.0,None,53.68,'Moderate',38.89,'Low',0.0,None,0.0,None,0.0,None,16.0,'Very Low',37.7,'Low',0.0,None
-Gabon,20.07,'Very Low',39.86,'Low',31.48,'Low',0.0,None,48.7,'Low',69.71,'Very High',16.35,'Very Low',76.47,'High',0.0,None
-Gambia,7.25,'Very Low',40.88,'Moderate',66.67,'High',0.0,None,27.72,'Very Low',103.29,'Very High',65.0,'Very High',61.67,'High',0.0,None
-Georgia,40.6,'Low',73.9,'High',56.34,'Moderate',88.53,'Very High',32.0,'Very Low',12.21,'High',38.63,'Moderate',67.54,'High',': 125.48','Moderate'
-Germany,130.01,'Very High',60.77,'High',71.97,'High',83.3,'Very High',59.56,'Low',9.12,'Moderate',29.82,'Low',28.81,'Low',': 189.75','Very High'
-Ghana,17.4,'Very Low',54.65,'Moderate',57.38,'Moderate',67.03,'High',30.49,'Very Low',81.28,'Very High',39.67,'Moderate',86.91,'Very High',': 17.47','Very Low'
-Gibraltar,103.02,'High',79.77,'High',67.13,'High',0.0,None,59.05,'Low',16.0,'Very High',16.2,'Very Low',61.64,'High',0.0,None
-Greece,59.69,'Low',53.44,'Moderate',58.2,'Moderate',91.79,'Very High',47.78,'Low',12.72,'High',33.53,'Low',50.07,'Moderate',': 136.83','Moderate'
-Greenland,139.14,'Very High',62.16,'High',51.39,'Moderate',0.0,None,83.09,'High',4.75,'Very Low',34.59,'Low',77.11,'High',0.0,None
-Grenada,31.88,'Very Low',75.07,'High',65.28,'High',0.0,None,75.44,'High',175.23,'Very High',40.0,'Moderate',49.18,'Moderate',0.0,None
-Guadeloupe,120.6,'Very High',72.18,'High',93.06,'Very High',0.0,None,57.98,'Low',9.65,'Moderate',0.0,None,75.86,'High',0.0,None
-Guam,0.0,None,36.34,'Low',36.19,'Low',0.0,None,0.0,None,0.0,None,30.0,'Low',51.83,'Moderate',0.0,None
-Guatemala,40.26,'Low',41.92,'Moderate',67.33,'High',99.89,'Very High',36.67,'Very Low',11.44,'Moderate',50.58,'High',73.47,'High',': 107.92','Low'
-Guernsey,142.95,'Very High',76.14,'High',61.11,'High',0.0,None,66.48,'Moderate',9.66,'Moderate',16.25,'Very Low',11.49,'Very Low',0.0,None
-Guinea,0.0,None,39.95,'Low',100.0,'Very High',0.0,None,0.0,None,0.68,'Very Low',0.0,None,106.67,'Very High',0.0,None
-Guinea-Bissau,76.11,'Moderate',48.18,'Moderate',51.39,'Moderate',0.0,None,39.6,'Very Low',7.13,'Low',20.0,'Very Low',0.0,None,0.0,None
-Guyana,35.0,'Very Low',33.65,'Low',37.65,'Low',0.0,None,44.46,'Low',19.72,'Very High',52.0,'High',60.09,'High',0.0,None
-Haiti,77.7,'Moderate',21.41,'Low',32.72,'Low',0.0,None,51.39,'Low',5.5,'Low',80.67,'Very High',94.3,'Very High',0.0,None
-Honduras,43.68,'Low',27.75,'Low',37.83,'Low',0.0,None,34.39,'Very Low',6.36,'Low',19.7,'Very Low',75.52,'High',0.0,None
-Hong Kong (China),108.13,'High',78.49,'High',66.06,'High',83.64,'Very High',74.59,'High',29.83,'Very High',41.81,'High',66.86,'High',': 134.04','Moderate'
-Hungary,70.34,'Moderate',66.28,'High',54.07,'Moderate',78.74,'High',37.72,'Very Low',13.22,'High',35.68,'Moderate',46.57,'Moderate',': 143.26','Moderate'
-Iceland,126.81,'Very High',74.26,'High',67.63,'High',68.81,'High',81.71,'High',6.39,'Low',21.35,'Very Low',15.84,'Very Low',': 202.04','Very High'
-India,86.09,'High',55.67,'Moderate',65.43,'High',64.1,'High',19.93,'Very Low',11.26,'Moderate',46.54,'High',72.89,'High',': 124.70','Moderate'
-Indonesia,33.47,'Very Low',54.11,'Moderate',60.84,'High',63.76,'High',25.31,'Very Low',16.65,'Very High',43.11,'High',67.99,'High',': 99.98','Very Low'
-Iran,29.9,'Very Low',49.67,'Moderate',52.62,'Moderate',70.99,'High',24.03,'Very Low',20.05,'Very High',46.92,'High',75.24,'High',': 85.42','Very Low'
-Iraq,55.15,'Low',57.47,'Moderate',45.9,'Moderate',46.98,'Moderate',26.81,'Very Low',8.17,'Moderate',37.05,'Moderate',71.53,'High',': 107.76','Low'
-Ireland,112.53,'Very High',52.53,'Moderate',51.38,'Moderate',87.83,'Very High',60.85,'Moderate',6.58,'Low',37.76,'Moderate',34.79,'Low',': 166.37','Very High'
-Isle Of Man,140.64,'Very High',79.57,'High',72.61,'High',0.0,None,62.41,'Moderate',3.63,'Very Low',11.25,'Very Low',18.12,'Very Low',0.0,None
-Israel,108.83,'High',68.25,'High',73.34,'High',93.78,'Very High',63.19,'Moderate',13.98,'High',36.61,'Moderate',56.84,'Moderate',': 161.76','Very High'
-Italy,87.2,'High',53.03,'Moderate',65.13,'High',90.78,'Very High',52.12,'Low',9.47,'Moderate',32.36,'Low',53.67,'Moderate',': 151.06','High'
-Ivory Coast,12.91,'Very Low',43.57,'Moderate',44.44,'Moderate',0.0,None,39.62,'Very Low',41.78,'Very High',43.5,'High',94.87,'Very High',0.0,None
-Jamaica,36.87,'Very Low',32.61,'Low',51.52,'Moderate',71.58,'High',49.56,'Low',20.19,'Very High',44.5,'High',66.31,'High',': 83.92','Very Low'
-Japan,120.74,'Very High',77.07,'High',79.81,'High',85.26,'Very High',46.99,'Low',12.29,'High',40.33,'Moderate',38.55,'Low',': 184.32','Very High'
-Jersey,104.07,'High',74.32,'High',53.94,'Moderate',0.0,None,77.04,'High',13.33,'High',27.0,'Low',26.72,'Low',0.0,None
-Jordan,52.44,'Low',59.78,'Moderate',65.23,'High',89.05,'Very High',37.64,'Very Low',6.77,'Low',39.38,'Moderate',77.1,'High',': 125.01','Moderate'
-Kazakhstan,51.89,'Low',54.62,'Moderate',60.65,'High',39.78,'Moderate',28.08,'Very Low',10.27,'Moderate',35.62,'Moderate',73.16,'High',': 105.92','Low'
-Kenya,35.6,'Very Low',44.24,'Moderate',61.54,'High',99.79,'Very High',28.23,'Very Low',18.77,'Very High',50.59,'High',69.04,'High',': 101.33','Low'
-Kiribati,281.83,'Very High',81.86,'Very High',55.56,'Moderate',0.0,None,55.26,'Low',0.0,'Very Low',47.9,'High',106.9,'Very High',0.0,None
-Kosovo (Disputed Territory),53.0,'Low',59.2,'Moderate',68.47,'High',76.84,'High',26.04,'Very Low',13.85,'High',24.06,'Very Low',67.84,'High',': 130.09','Moderate'
-Kuwait,176.8,'Very High',67.19,'High',57.93,'Moderate',20.22,'Moderate',40.82,'Low',6.69,'Low',35.32,'Moderate',69.37,'High',': 159.55','High'
-Kyrgyzstan,35.11,'Very Low',46.17,'Moderate',57.62,'Moderate',58.11,'Moderate',25.72,'Very Low',12.89,'High',37.7,'Moderate',70.38,'High',': 98.32','Very Low'
-Laos,32.51,'Very Low',63.72,'High',34.44,'Low',0.0,None,32.57,'Very Low',12.67,'High',22.4,'Very Low',78.51,'High',0.0,None
-Latvia,76.15,'Moderate',62.8,'High',62.4,'High',74.7,'High',44.96,'Low',8.38,'Moderate',28.7,'Low',30.4,'Low',': 164.22','Very High'
-Lebanon,34.84,'Very Low',53.16,'Moderate',63.69,'High',94.74,'Very High',38.99,'Very Low',16.26,'Very High',38.75,'Moderate',89.41,'Very High',': 98.43','Very Low'
-Lesotho,0.0,None,32.75,'Low',55.56,'Moderate',0.0,None,0.0,None,3.11,'Very Low',51.0,'High',58.62,'Moderate',0.0,None
-Liberia,33.34,'Very Low',19.13,'Very Low',38.89,'Low',0.0,None,64.1,'Moderate',25.57,'Very High',30.0,'Low',91.76,'Very High',0.0,None
-Libya,50.47,'Low',44.23,'Moderate',45.45,'Moderate',96.54,'Very High',18.72,'Very Low',7.62,'Low',27.36,'Low',53.02,'Moderate',': 134.14','Moderate'
-Liechtenstein,178.83,'Very High',87.84,'Very High',70.37,'High',0.0,None,94.03,'Very High',5.07,'Low',0.0,'Very Low',6.47,'Very Low',0.0,None
-Lithuania,80.43,'Moderate',67.72,'High',74.95,'High',67.76,'High',44.73,'Low',12.25,'High',23.36,'Very Low',26.14,'Low',': 172.77','Very High'
-Luxembourg,195.55,'Very High',64.68,'High',75.24,'High',82.62,'Very High',63.72,'Moderate',8.48,'Moderate',27.04,'Low',23.27,'Low',': 224.31','Very High'
-Macao (China),106.51,'High',79.52,'High',51.0,'Moderate',81.7,'Very High',57.26,'Low',21.1,'Very High',16.73,'Very Low',67.58,'High',': 149.76','High'
-Madagascar,16.75,'Very Low',35.59,'Low',39.32,'Low',0.0,None,21.27,'Very Low',22.4,'Very High',31.75,'Low',86.87,'Very High',0.0,None
-Malawi,29.25,'Very Low',43.89,'Moderate',37.5,'Low',0.0,None,35.35,'Very Low',81.6,'Very High',20.34,'Very Low',64.16,'High',0.0,None
-Malaysia,86.32,'High',51.03,'Moderate',70.37,'High',56.55,'Moderate',29.82,'Very Low',8.5,'Moderate',37.17,'Moderate',61.14,'High',': 136.22','Moderate'
-Maldives,52.96,'Low',45.91,'Moderate',45.94,'Moderate',0.0,None,45.85,'Low',11.61,'Moderate',19.4,'Very Low',74.55,'High',0.0,None
-Mali,0.0,None,52.92,'Moderate',18.52,'Very Low',0.0,None,0.0,None,100.71,'Very High',0.0,None,85.52,'Very High',0.0,None
-Malta,78.04,'Moderate',57.09,'Moderate',52.12,'Moderate',97.44,'Very High',48.99,'Low',11.14,'Moderate',28.33,'Low',75.5,'High',': 132.54','Moderate'
-Marshall Islands,0.0,None,72.55,'High',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,85.63,'Very High',0.0,None
-Martinique,94.35,'High',37.14,'Low',75.0,'High',0.0,None,60.67,'Moderate',6.62,'Low',0.0,None,62.59,'High',0.0,None
-Mauritania,56.0,'Low',61.51,'High',46.76,'Moderate',0.0,None,41.43,'Low',14.99,'High',0.0,None,78.97,'High',0.0,None
-Mauritius,49.7,'Low',52.71,'Moderate',65.18,'High',0.0,None,34.6,'Very Low',8.59,'Moderate',51.17,'High',54.8,'Moderate',0.0,None
-Mexico,48.48,'Low',46.47,'Moderate',72.39,'High',87.51,'Very High',35.0,'Very Low',11.61,'Moderate',39.29,'Moderate',58.46,'Moderate',': 127.02','Moderate'
-Micronesia,14.28,'Very Low',55.87,'Moderate',53.47,'Moderate',0.0,None,56.24,'Low',14.77,'High',17.17,'Very Low',71.26,'High',0.0,None
-Moldova,47.77,'Low',55.52,'Moderate',52.12,'Moderate',76.91,'High',31.44,'Very Low',12.92,'High',27.75,'Low',61.33,'High',': 122.53','Moderate'
-Monaco,88.24,'High',76.38,'High',75.0,'High',0.0,None,137.37,'Very High',39.84,'Very High',22.5,'Very Low',78.2,'High',0.0,None
-Mongolia,31.73,'Very Low',47.53,'Moderate',51.63,'Moderate',-3.54,'Low',30.68,'Very Low',16.08,'Very High',31.42,'Low',87.82,'Very High',': 62.52','Very Low'
-Montenegro,57.92,'Low',64.59,'High',41.05,'Moderate',89.02,'Very High',37.37,'Very Low',12.92,'High',16.89,'Very Low',43.7,'Moderate',': 147.33','High'
-Montserrat,0.0,None,93.38,'Very High',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None
-Morocco,42.23,'Low',52.34,'Moderate',46.87,'Moderate',86.09,'Very High',27.76,'Very Low',13.42,'High',35.16,'Moderate',68.66,'High',': 110.96','Low'
-Mozambique,18.54,'Very Low',38.05,'Low',41.15,'Moderate',0.0,None,39.14,'Very Low',50.55,'Very High',30.0,'Low',71.57,'High',0.0,None
-Myanmar,19.87,'Very Low',49.14,'Moderate',48.6,'Moderate',0.0,None,35.88,'Very Low',17.19,'Very High',49.09,'High',89.79,'Very High',0.0,None
-Namibia,68.25,'Moderate',36.45,'Low',65.07,'High',0.0,None,30.18,'Very Low',3.55,'Very Low',26.18,'Very Low',40.72,'Moderate',0.0,None
-Nauru,0.0,None,49.05,'Moderate',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,101.72,'Very High',0.0,None
-Nepal,28.36,'Very Low',63.5,'High',57.7,'Moderate',92.64,'Very High',23.48,'Very Low',33.09,'Very High',33.45,'Low',83.87,'Very High',': 88.97','Very Low'
-Netherlands,134.19,'Very High',73.36,'High',79.47,'High',87.42,'Very High',61.41,'Moderate',7.63,'Low',23.14,'Very Low',21.14,'Low',': 211.85','Very High'
-New Caledonia,99.69,'High',36.91,'Low',54.17,'Moderate',0.0,None,73.43,'High',8.43,'Moderate',32.5,'Low',59.31,'Moderate',0.0,None
-New Zealand,123.9,'Very High',51.87,'Moderate',68.61,'High',95.46,'Very High',59.36,'Low',8.63,'Moderate',32.56,'Low',26.0,'Low',': 186.57','Very High'
-Nicaragua,25.14,'Very Low',49.25,'Moderate',61.57,'High',0.0,None,31.13,'Very Low',18.98,'Very High',53.83,'High',60.78,'High',0.0,None
-Niger,7.04,'Very Low',33.38,'Low',30.56,'Low',0.0,None,132.99,'Very High',"'2,746.00'",'Very High',20.0,'Very Low',63.79,'High',0.0,None
-Nigeria,11.37,'Very Low',33.51,'Low',48.17,'Moderate',60.75,'High',27.29,'Very Low',25.59,'Very High',65.31,'Very High',87.91,'Very High',': 41.24','Very Low'
-Niue,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,46.55,'Moderate',0.0,None
-North Korea,18.89,'Very Low',46.53,'Moderate',34.13,'Low',0.0,None,33.59,'Very Low',30.31,'Very High',16.65,'Very Low',72.41,'High',0.0,None
-North Macedonia,59.26,'Low',59.17,'Moderate',55.12,'Moderate',76.3,'High',30.57,'Very Low',12.24,'High',24.91,'Very Low',79.59,'High',': 119.96','Low'
-Northern Mariana Islands,0.0,None,64.03,'High',44.44,'Moderate',0.0,None,0.0,None,36.43,'Very High',0.0,None,33.33,'Low',0.0,None
-Norway,122.3,'Very High',67.05,'High',75.65,'High',68.5,'High',71.27,'Moderate',8.38,'Moderate',26.67,'Very Low',18.32,'Very Low',': 194.48','Very High'
-Oman,160.38,'Very High',81.94,'Very High',65.11,'High',67.22,'High',39.3,'Very Low',2.81,'Very Low',20.54,'Very Low',34.71,'Low',': 213.42','Very High'
-Pakistan,30.57,'Very Low',56.31,'Moderate',59.38,'Moderate',71.93,'High',17.9,'Very Low',14.3,'High',38.01,'Moderate',73.31,'High',': 104.14','Low'
-Palau,0.0,None,73.24,'High',0.0,None,0.0,None,0.0,None,23.2,'Very High',0.0,None,14.37,'Very Low',0.0,None
-Palestine,49.62,'Low',57.24,'Moderate',52.36,'Moderate',0.0,None,38.29,'Very Low',6.71,'Low',48.5,'High',65.03,'High',0.0,None
-Panama,44.91,'Low',57.32,'Moderate',60.66,'High',67.84,'High',43.83,'Low',11.68,'Moderate',35.24,'Moderate',55.63,'Moderate',': 122.74','Moderate'
-Papua New Guinea,13.71,'Very Low',19.89,'Very Low',23.86,'Low',0.0,None,69.3,'Moderate',450.4,'Very High',44.56,'High',78.81,'High',0.0,None
-Paraguay,41.24,'Low',39.84,'Low',64.52,'High',92.24,'Very High',23.19,'Very Low',15.68,'High',42.83,'High',66.16,'High',': 109.45','Low'
-Peru,39.16,'Very Low',32.77,'Low',56.28,'Moderate',97.69,'Very High',29.43,'Very Low',18.58,'Very High',49.78,'High',82.19,'Very High',': 85.92','Very Low'
-Philippines,37.95,'Very Low',56.92,'Moderate',67.2,'High',61.23,'High',28.77,'Very Low',22.2,'Very High',41.29,'High',72.38,'High',': 96.95','Very Low'
-Poland,93.75,'High',70.99,'High',57.92,'Moderate',75.9,'High',39.35,'Very Low',11.03,'Moderate',31.79,'Low',55.51,'Moderate',': 153.60','High'
-Portugal,62.54,'Moderate',68.17,'High',72.42,'High',97.31,'Very High',41.72,'Low',13.97,'High',28.65,'Low',28.8,'Low',': 168.85','Very High'
-Puerto Rico,112.17,'Very High',38.52,'Low',58.5,'Moderate',0.0,None,59.23,'Low',4.21,'Very Low',33.69,'Low',47.86,'Moderate',0.0,None
-Qatar,184.27,'Very High',84.05,'Very High',73.45,'High',36.03,'Moderate',48.27,'Low',5.06,'Low',29.01,'Low',60.0,'High',': 192.73','Very High'
-Republic of the Congo,20.45,'Very Low',45.71,'Moderate',68.52,'High',0.0,None,54.46,'Low',35.01,'Very High',0.0,None,77.59,'High',0.0,None
-Reunion,96.1,'High',53.09,'Moderate',71.3,'High',0.0,None,52.71,'Low',7.95,'Low',0.0,'Very Low',32.67,'Low',0.0,None
-Romania,73.36,'Moderate',67.82,'High',56.51,'Moderate',77.0,'High',34.66,'Very Low',10.16,'Moderate',33.36,'Low',58.61,'Moderate',': 142.14','Moderate'
-Russia,55.66,'Low',61.3,'High',61.41,'High',43.6,'Moderate',25.25,'Very Low',14.84,'High',43.35,'High',59.13,'Moderate',': 113.56','Low'
-Rwanda,20.5,'Very Low',72.81,'High',72.87,'High',99.74,'Very High',37.05,'Very Low',446.83,'Very High',15.67,'Very Low',39.22,'Low',': 0.00','Very Low'
-Saint Helena,0.0,None,92.65,'Very High',69.44,'High',0.0,None,0.0,None,0.0,None,15.0,'Very Low',15.52,'Very Low',0.0,None
-Saint Kitts And Nevis,0.0,None,59.98,'Moderate',50.0,'Moderate',0.0,None,0.0,None,20.27,'Very High',15.0,'Very Low',36.21,'Low',0.0,None
-Saint Lucia,0.0,None,39.08,'Low',49.9,'Moderate',0.0,None,0.0,None,0.85,'Very Low',7.0,'Very Low',46.22,'Moderate',0.0,None
-Saint Vincent And The Grenadines,46.16,'Low',62.22,'High',31.94,'Low',0.0,None,60.33,'Moderate',4.66,'Very Low',10.0,'Very Low',0.0,None,0.0,None
-Saint-Pierre And Miquelon,0.0,None,100.0,'Very High',0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,55.17,'Moderate',0.0,None
-Samoa,0.0,None,57.94,'Moderate',55.56,'Moderate',0.0,None,0.0,None,205.03,'Very High',0.0,None,39.94,'Low',0.0,None
-San Marino,0.0,None,80.65,'Very High',83.33,'Very High',0.0,None,0.0,None,5.34,'Low',10.0,'Very Low',15.36,'Very Low',0.0,None
-Sao Tome And Principe,0.0,None,82.56,'Very High',86.11,'Very High',0.0,None,0.0,None,0.0,None,0.0,None,68.97,'High',0.0,None
-Saudi Arabia,147.37,'Very High',76.23,'High',61.71,'High',45.98,'Moderate',42.06,'Low',3.09,'Very Low',29.87,'Low',62.46,'High',': 173.20','Very High'
-Senegal,21.72,'Very Low',49.82,'Moderate',48.38,'Moderate',0.0,None,40.61,'Low',24.07,'Very High',25.0,'Very Low',95.87,'Very High',0.0,None
-Serbia,58.05,'Low',62.75,'High',51.96,'Moderate',83.23,'Very High',36.18,'Very Low',16.78,'Very High',30.72,'Low',65.62,'High',': 123.62','Moderate'
-Seychelles,34.19,'Very Low',55.01,'Moderate',63.19,'High',0.0,None,59.88,'Low',4.66,'Very Low',29.33,'Low',36.71,'Low',0.0,None
-Sierra Leone,0.0,None,42.9,'Moderate',31.25,'Low',0.0,None,0.0,None,3.23,'Very Low',0.0,None,106.03,'Very High',0.0,None
-Singapore,108.8,'High',72.48,'High',71.9,'High',57.45,'Moderate',79.72,'High',20.4,'Very High',40.87,'Moderate',32.61,'Low',': 157.13','High'
-Sint Maarten,46.37,'Low',68.09,'High',56.48,'Moderate',0.0,None,65.56,'Moderate',6.92,'Low',0.0,'Very Low',79.48,'High',0.0,None
-Slovakia,75.25,'Moderate',69.2,'High',58.6,'Moderate',80.72,'Very High',43.24,'Low',14.2,'High',27.41,'Low',37.3,'Low',': 157.96','High'
-Slovenia,85.89,'High',76.17,'High',66.26,'High',76.11,'High',47.58,'Low',13.09,'High',25.39,'Very Low',22.25,'Low',': 178.94','Very High'
-Solomon Islands,10.77,'Very Low',36.13,'Low',45.14,'Moderate',0.0,None,101.05,'Very High',"'1,004.18'",'Very High',36.67,'Moderate',79.55,'High',0.0,None
-Somalia,28.41,'Very Low',35.86,'Low',40.49,'Moderate',0.0,None,40.56,'Low',360.1,'Very High',29.0,'Low',63.41,'High',0.0,None
-South Africa,123.08,'Very High',25.36,'Low',63.83,'High',95.25,'Very High',31.3,'Very Low',3.21,'Very Low',38.61,'Moderate',56.56,'Moderate',': 155.84','High'
-South Korea,107.47,'High',75.36,'High',82.78,'Very High',68.39,'High',59.94,'Low',21.06,'Very High',40.32,'Moderate',60.93,'High',': 148.74','High'
-South Sudan,0.0,None,18.57,'Very Low',23.61,'Low',0.0,None,0.0,None,2.08,'Very Low',0.0,'Very Low',56.47,'Moderate',0.0,None
-Spain,101.41,'High',63.51,'High',77.26,'High',94.04,'Very High',44.41,'Low',8.28,'Moderate',26.76,'Very Low',35.7,'Low',': 184.67','Very High'
-Sri Lanka,17.98,'Very Low',57.9,'Moderate',71.36,'High',59.11,'Moderate',33.96,'Very Low',39.94,'Very High',54.52,'High',57.94,'Moderate',': 75.17','Very Low'
-Sudan,0.0,None,54.5,'Moderate',46.78,'Moderate',0.0,None,0.0,None,24.64,'Very High',38.33,'Moderate',67.55,'High',0.0,None
-Suriname,19.73,'Very Low',47.12,'Moderate',42.62,'Moderate',0.0,None,39.75,'Very Low',3.18,'Very Low',28.88,'Low',51.15,'Moderate',0.0,None
-Sweden,134.51,'Very High',51.74,'Moderate',68.43,'High',76.49,'High',54.84,'Low',7.45,'Low',28.72,'Low',17.66,'Very Low',': 193.48','Very High'
-Switzerland,165.31,'Very High',73.69,'High',71.5,'High',79.24,'High',101.18,'Very High',10.94,'Moderate',33.28,'Low',23.06,'Low',': 204.91','Very High'
-Syria,5.22,'Very Low',31.5,'Low',37.11,'Low',0.0,None,23.8,'Very Low',118.65,'Very High',34.9,'Low',74.88,'High',0.0,None
-Taiwan,101.65,'High',82.89,'Very High',86.5,'Very High',84.38,'Very High',44.79,'Low',20.89,'Very High',32.81,'Low',64.31,'High',': 160.18','Very High'
-Tajikistan,23.92,'Very Low',55.6,'Moderate',61.9,'High',0.0,None,24.6,'Very Low',16.11,'Very High',27.0,'Low',54.02,'Moderate',0.0,None
-Tanzania,23.52,'Very Low',46.46,'Moderate',42.14,'Moderate',71.28,'High',25.31,'Very Low',134.04,'Very High',27.79,'Low',62.48,'High',': 0.00','Very Low'
-Thailand,46.07,'Low',62.49,'High',77.36,'High',69.76,'High',33.88,'Very Low',25.31,'Very High',38.71,'Moderate',75.65,'High',': 105.37','Low'
-Timor-Leste,259.09,'Very High',57.93,'Moderate',52.69,'Moderate',0.0,None,45.57,'Low',4.13,'Very Low',25.0,'Very Low',60.35,'High',0.0,None
-Togo,50.92,'Low',54.84,'Moderate',54.17,'Moderate',0.0,None,31.91,'Very Low',7.42,'Low',7.0,'Very Low',82.5,'Very High',0.0,None
-Tonga,0.0,None,39.02,'Low',62.27,'High',0.0,None,50.8,'Low',2.44,'Very Low',0.0,None,0.0,None,0.0,None
-Trinidad And Tobago,45.35,'Low',29.01,'Low',54.09,'Moderate',67.55,'High',49.01,'Low',14.18,'High',56.88,'Very High',67.14,'High',': 84.52','Very Low'
-Tunisia,33.55,'Very Low',55.23,'Moderate',57.17,'Moderate',93.24,'Very High',25.71,'Very Low',13.06,'High',34.39,'Low',70.08,'High',': 115.44','Low'
-Turkey,52.08,'Low',58.74,'Moderate',71.22,'High',93.26,'Very High',35.37,'Very Low',11.05,'Moderate',43.81,'High',64.29,'High',': 130.42','Moderate'
-Turkmenistan,0.0,None,51.24,'Moderate',49.83,'Moderate',0.0,None,0.0,None,25.99,'Very High',17.29,'Very Low',38.15,'Low',0.0,None
-Turks And Caicos Islands,0.0,None,51.12,'Moderate',54.63,'Moderate',0.0,None,0.0,None,0.0,None,0.0,None,32.76,'Low',0.0,None
-Tuvalu,0.0,None,81.52,'Very High',100.0,'Very High',0.0,None,0.0,None,0.55,'Very Low',0.0,'Very Low',0.0,'Very Low',0.0,None
-Uganda,10.33,'Very Low',45.88,'Moderate',50.05,'Moderate',98.41,'Very High',47.97,'Low',"'1,075.92'",'Very High',44.5,'High',84.05,'Very High',': 0.00','Very Low'
-Ukraine,47.67,'Low',53.13,'Moderate',55.74,'Moderate',70.69,'High',24.38,'Very Low',13.88,'High',37.92,'Moderate',62.16,'High',': 114.78','Low'
-United Arab Emirates,132.31,'Very High',84.43,'Very High',70.63,'High',45.84,'Moderate',53.8,'Low',6.77,'Low',35.77,'Moderate',47.98,'Moderate',': 176.65','Very High'
-United Kingdom,125.05,'Very High',51.88,'Moderate',72.92,'High',87.41,'Very High',59.67,'Low',8.75,'Moderate',34.74,'Low',40.47,'Moderate',': 175.20','Very High'
-United States,153.02,'Very High',50.74,'Moderate',67.86,'High',79.14,'High',65.69,'Moderate',3.54,'Very Low',32.91,'Low',36.61,'Low',': 189.14','Very High'
-Uruguay,57.92,'Low',48.2,'Moderate',68.57,'High',98.04,'Very High',47.39,'Low',12.28,'High',39.52,'Moderate',43.49,'Moderate',': 141.60','Moderate'
-Us Virgin Islands,74.23,'Moderate',40.06,'Moderate',45.37,'Moderate',0.0,None,99.27,'Very High',11.78,'Moderate',15.0,'Very Low',15.27,'Very Low',0.0,None
-Uzbekistan,44.66,'Low',71.97,'High',61.82,'High',69.79,'High',24.4,'Very Low',13.08,'High',34.3,'Low',53.07,'Moderate',': 133.78','Moderate'
-Vanuatu,0.0,None,58.35,'Moderate',40.51,'Moderate',0.0,None,0.0,None,29.88,'Very High',15.0,'Very Low',40.14,'Moderate',0.0,None
-Vatican City,0.0,None,46.18,'Moderate',100.0,'Very High',0.0,None,0.0,None,0.0,None,0.0,None,46.32,'Moderate',0.0,None
-Venezuela,15.11,'Very Low',19.26,'Very Low',38.69,'Low',0.0,None,35.85,'Very Low',17.49,'Very High',32.8,'Low',75.3,'High',0.0,None
-Vietnam,44.49,'Low',59.0,'Moderate',61.32,'High',71.24,'High',26.85,'Very Low',24.77,'Very High',29.62,'Low',84.19,'Very High',': 97.18','Very Low'
-Wallis And Futuna,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None,0.0,None
-Western Sahara,0.0,None,62.87,'High',0.0,None,0.0,None,0.0,None,12.75,'High',0.0,None,0.0,None,0.0,None
-Yemen,20.74,'Very Low',34.07,'Low',25.31,'Low',0.0,None,48.66,'Low',15.98,'High',15.0,'Very Low',83.17,'Very High',0.0,None
-Zambia,22.32,'Very Low',54.39,'Moderate',54.44,'Moderate',0.0,None,36.74,'Very Low',72.42,'Very High',38.86,'Moderate',80.9,'Very High',0.0,None
-Zimbabwe,28.76,'Very Low',39.31,'Low',44.8,'Moderate',96.76,'Very High',35.36,'Very Low',17.35,'Very High',27.79,'Low',78.53,'High',': 94.20','Very Low'
+country,Purchasing Power Value,Safety Value,Health Care Value,Climate Value,Cost of Living Value,Property Price to Income Value,Traffic Commute Time Value,Pollution Value
+Afghanistan,32.15,25.33,24.24,0,21.08,7.8,56.17,84.44
+Aland Islands,125.01,71.81,79.72,0,53.44,5.33,19.05,18.05
+Albania,42.82,55.52,48.21,86.43,40.85,14.88,36.74,77.25
+Alderney,0,83.79,100,0,0,0,5,1.72
+Algeria,27.6,47.54,54.43,94.82,25.31,21.7,45.09,63.87
+American Samoa,0,54.41,0,0,0,0,100,78.45
+Andorra,121.14,84.71,75.56,0,48.09,9.03,13.33,22.98
+Angola,224.46,33.71,36.58,0,42.57,8.01,65.43,92.07
+Anguilla,0,75.44,77.08,0,0,1.84,0,0
+Antigua And Barbuda,0,42.86,30.56,0,0,0,35,43.1
+Argentina,40.36,36.36,68,98.28,32.65,20.05,44.07,50.81
+Armenia,36.91,77.81,58.07,63.42,41.84,20.95,29.31,62.55
+Aruba,71.46,69.23,78.7,0,79.42,5.32,46.33,35.7
+Australia,137.58,52.71,73.35,93.8,64.5,8.25,37.48,26.8
+Austria,109.08,70.38,77.83,77.4,62.22,11.76,23.77,20.73
+Azerbaijan,41.75,68.12,48.31,91.4,30.26,15.24,40.63,72.69
+Bahamas,58.59,43.76,39.52,0,81.3,5.32,27.69,61.34
+Bahrain,114.56,75.28,66.6,64.31,48.79,4.9,30.74,71.57
+Bangladesh,36.16,38.79,42.2,71.29,20.76,12.26,57.57,85.31
+Barbados,46.93,55.14,71.88,0,70.6,14.67,36.67,24.39
+Belarus,56.24,49.99,48.5,64.37,25.11,12.79,31.2,44.94
+Belgium,118.62,50.42,75.76,86.03,57.41,6.82,35.19,49.45
+Belize,0,47.47,47.37,0,0,6.06,12.75,52.8
+Benin,0,62.16,51.39,0,0,0,26,97.41
+Bermuda,108.79,63.7,70.61,0,124.77,6.85,35.7,14.95
+Bhutan,74.38,70.45,73.28,0,24.92,14.07,2.95,48.82
+Bolivia,43.04,35,45.98,0,25.28,12.54,39.94,71.92
+Bonaire,0,62.95,0,0,0,0,0,0
+Bosnia And Herzegovina,63.66,58.3,55.62,80.48,32.01,13.12,26.15,59.68
+Botswana,64.6,47.3,61.12,88.87,40.05,118.01,28.53,46.09
+Brazil,42.13,35.36,59.21,94.31,27.14,15.4,40.63,52.84
+British Virgin Islands,0,59.31,0,0,0,0,0,68.1
+Brunei,119.26,70.7,75.37,0,46.73,6.97,27.3,35.49
+Bulgaria,77.66,63.73,58.15,82.76,35.86,9.22,29.05,62.94
+Burkina Faso,0,61.16,49.31,0,0,1.25,50,0
+Burundi,0,43.44,34.44,0,0,20.67,33,87.84
+Cambodia,26.95,48.19,50.71,59.43,34.38,26.77,28,77.77
+Cameroon,10.02,34.53,45.53,0,37.61,46.06,46,93.71
+Canada,111.31,54.34,68.82,55.41,60.55,10.47,33.53,29.8
+Cape Verde,18.09,49.87,67.71,0,38.51,17.12,15.33,81.03
+Cayman Islands,123.25,69.25,62.28,0,108.7,8.64,18.89,23.96
+Central African Republic,0,15.89,41.67,0,0,8.5,5,84.83
+Chad,20.21,32.16,44.21,0,46.23,2.69,6,60.56
+Chile,51.47,39.55,63.52,90.21,36.29,16.03,36.04,77.51
+China,78.42,75.82,68.53,79.61,31.23,28.6,38.9,77.3
+Colombia,36.19,39.14,68.44,96.69,25.48,17.98,47.15,62.47
+Comoros,41.96,52.94,0,0,35.91,11.15,0,0
+Cook Islands,0,69.08,0,0,0,0,0,8.62
+Costa Rica,50.9,46.04,64.29,99.48,50.18,9.63,59.99,42.39
+Croatia,83.85,74.54,64.66,89.23,43.23,12.45,25.79,31.1
+Cuba,2.55,66.02,59.3,0,41.1,48,47.89,65.82
+Curacao,0,46.19,50.35,0,0,0,17.5,55.46
+Cyprus,84.66,66.9,57.13,90.87,50.99,8.06,23.59,54.99
+Czech Republic,90.3,73.64,75.47,79.1,43.65,13.17,29.12,34.78
+Democratic Republic of the Congo,25.51,36.16,25.69,0,50.85,37.22,75,83.22
+Denmark,134.75,73.81,78.5,82.47,68.9,6.36,27.93,20.75
+Djibouti,165.89,42.74,0,0,76.83,12.41,42.67,64.6
+Dominica,32.92,46.42,36.57,0,50.36,0.64,0,20.69
+Dominican Republic,31.82,39.4,58.26,67.82,34.75,16.89,40.69,72.8
+Ecuador,45.93,37.57,75.39,94.51,30.28,12,37.68,59.05
+Egypt,21.15,52.64,47.32,91.98,19.46,17.85,48.1,82.67
+El Salvador,33.72,40.58,51.67,86.6,38.13,16,40.39,75.37
+Equatorial Guinea,30.87,52.16,42.59,0,51.87,7.15,20.5,59.85
+Eritrea,58.05,72.86,55.56,0,53.58,4.41,0,15.52
+Estonia,83.91,76.37,75.93,64.28,50.4,11.27,21.57,17.02
+Eswatini,64.57,56.45,61.11,0,24.22,2.82,31,32.07
+Ethiopia,13.59,49.1,53.46,96.82,43.89,49.87,63.36,73.24
+Falkland Islands,0,55.64,0,0,0,0,40,3.45
+Faroe Islands,0,83.57,65.08,0,0,8.75,0,4.91
+Fiji,57.77,43.44,48.18,71.89,33.42,6.51,40.93,53.44
+Finland,126.13,73.57,77.57,58.87,60.04,8.16,25.56,11.83
+France,111.7,44.56,77.78,89.71,59.48,10.55,34.72,43.56
+French Guiana,0,36.87,55.56,0,0,8.04,27.5,37.3
+French Polynesia,0,79.04,96.3,0,0,29.58,30,52.3
+French Southern Territories,0,53.68,38.89,0,0,0,16,37.7
+Gabon,20.07,39.86,31.48,0,48.7,69.71,16.35,76.47
+Gambia,7.25,40.88,66.67,0,27.72,103.29,65,61.67
+Georgia,40.6,73.9,56.34,88.53,32,12.21,38.63,67.54
+Germany,130.01,60.77,71.97,83.3,59.56,9.12,29.82,28.81
+Ghana,17.4,54.65,57.38,67.03,30.49,81.28,39.67,86.91
+Gibraltar,103.02,79.77,67.13,0,59.05,16,16.2,61.64
+Greece,59.69,53.44,58.2,91.79,47.78,12.72,33.53,50.07
+Greenland,139.14,62.16,51.39,0,83.09,4.75,34.59,77.11
+Grenada,31.88,75.07,65.28,0,75.44,175.23,40,49.18
+Guadeloupe,120.6,72.18,93.06,0,57.98,9.65,0,75.86
+Guam,0,36.34,36.19,0,0,0,30,51.83
+Guatemala,40.26,41.92,67.33,99.89,36.67,11.44,50.58,73.47
+Guernsey,142.95,76.14,61.11,0,66.48,9.66,16.25,11.49
+Guinea,0,39.95,100,0,0,0.68,0,106.67
+Guinea-Bissau,76.11,48.18,51.39,0,39.6,7.13,20,0
+Guyana,35,33.65,37.65,0,44.46,19.72,52,60.09
+Haiti,77.7,21.41,32.72,0,51.39,5.5,80.67,94.3
+Honduras,43.68,27.75,37.83,0,34.39,6.36,19.7,75.52
+Hong Kong (China),108.13,78.49,66.06,83.64,74.59,29.83,41.81,66.86
+Hungary,70.34,66.28,54.07,78.74,37.72,13.22,35.68,46.57
+Iceland,126.81,74.26,67.63,68.81,81.71,6.39,21.35,15.84
+India,86.09,55.67,65.43,64.1,19.93,11.26,46.54,72.89
+Indonesia,33.47,54.11,60.84,63.76,25.31,16.65,43.11,67.99
+Iran,29.9,49.67,52.62,70.99,24.03,20.05,46.92,75.24
+Iraq,55.15,57.47,45.9,46.98,26.81,8.17,37.05,71.53
+Ireland,112.53,52.53,51.38,87.83,60.85,6.58,37.76,34.79
+Isle Of Man,140.64,79.57,72.61,0,62.41,3.63,11.25,18.12
+Israel,108.83,68.25,73.34,93.78,63.19,13.98,36.61,56.84
+Italy,87.2,53.03,65.13,90.78,52.12,9.47,32.36,53.67
+Ivory Coast,12.91,43.57,44.44,0,39.62,41.78,43.5,94.87
+Jamaica,36.87,32.61,51.52,71.58,49.56,20.19,44.5,66.31
+Japan,120.74,77.07,79.81,85.26,46.99,12.29,40.33,38.55
+Jersey,104.07,74.32,53.94,0,77.04,13.33,27,26.72
+Jordan,52.44,59.78,65.23,89.05,37.64,6.77,39.38,77.1
+Kazakhstan,51.89,54.62,60.65,39.78,28.08,10.27,35.62,73.16
+Kenya,35.6,44.24,61.54,99.79,28.23,18.77,50.59,69.04
+Kiribati,281.83,81.86,55.56,0,55.26,0,47.9,106.9
+Kosovo (Disputed Territory),53,59.2,68.47,76.84,26.04,13.85,24.06,67.84
+Kuwait,176.8,67.19,57.93,20.22,40.82,6.69,35.32,69.37
+Kyrgyzstan,35.11,46.17,57.62,58.11,25.72,12.89,37.7,70.38
+Laos,32.51,63.72,34.44,0,32.57,12.67,22.4,78.51
+Latvia,76.15,62.8,62.4,74.7,44.96,8.38,28.7,30.4
+Lebanon,34.84,53.16,63.69,94.74,38.99,16.26,38.75,89.41
+Lesotho,0,32.75,55.56,0,0,3.11,51,58.62
+Liberia,33.34,19.13,38.89,0,64.1,25.57,30,91.76
+Libya,50.47,44.23,45.45,96.54,18.72,7.62,27.36,53.02
+Liechtenstein,178.83,87.84,70.37,0,94.03,5.07,0,6.47
+Lithuania,80.43,67.72,74.95,67.76,44.73,12.25,23.36,26.14
+Luxembourg,195.55,64.68,75.24,82.62,63.72,8.48,27.04,23.27
+Macao (China),106.51,79.52,51,81.7,57.26,21.1,16.73,67.58
+Madagascar,16.75,35.59,39.32,0,21.27,22.4,31.75,86.87
+Malawi,29.25,43.89,37.5,0,35.35,81.6,20.34,64.16
+Malaysia,86.32,51.03,70.37,56.55,29.82,8.5,37.17,61.14
+Maldives,52.96,45.91,45.94,0,45.85,11.61,19.4,74.55
+Mali,0,52.92,18.52,0,0,100.71,0,85.52
+Malta,78.04,57.09,52.12,97.44,48.99,11.14,28.33,75.5
+Marshall Islands,0,72.55,0,0,0,0,0,85.63
+Martinique,94.35,37.14,75,0,60.67,6.62,0,62.59
+Mauritania,56,61.51,46.76,0,41.43,14.99,0,78.97
+Mauritius,49.7,52.71,65.18,0,34.6,8.59,51.17,54.8
+Mexico,48.48,46.47,72.39,87.51,35,11.61,39.29,58.46
+Micronesia,14.28,55.87,53.47,0,56.24,14.77,17.17,71.26
+Moldova,47.77,55.52,52.12,76.91,31.44,12.92,27.75,61.33
+Monaco,88.24,76.38,75,0,137.37,39.84,22.5,78.2
+Mongolia,31.73,47.53,51.63,-3.54,30.68,16.08,31.42,87.82
+Montenegro,57.92,64.59,41.05,89.02,37.37,12.92,16.89,43.7
+Montserrat,0,93.38,0,0,0,0,0,0
+Morocco,42.23,52.34,46.87,86.09,27.76,13.42,35.16,68.66
+Mozambique,18.54,38.05,41.15,0,39.14,50.55,30,71.57
+Myanmar,19.87,49.14,48.6,0,35.88,17.19,49.09,89.79
+Namibia,68.25,36.45,65.07,0,30.18,3.55,26.18,40.72
+Nauru,0,49.05,0,0,0,0,0,101.72
+Nepal,28.36,63.5,57.7,92.64,23.48,33.09,33.45,83.87
+Netherlands,134.19,73.36,79.47,87.42,61.41,7.63,23.14,21.14
+New Caledonia,99.69,36.91,54.17,0,73.43,8.43,32.5,59.31
+New Zealand,123.9,51.87,68.61,95.46,59.36,8.63,32.56,26
+Nicaragua,25.14,49.25,61.57,0,31.13,18.98,53.83,60.78
+Niger,7.04,33.38,30.56,0,132.99,"'2,746.00'",20,63.79
+Nigeria,11.37,33.51,48.17,60.75,27.29,25.59,65.31,87.91
+Niue,0,0,0,0,0,0,0,46.55
+North Korea,18.89,46.53,34.13,0,33.59,30.31,16.65,72.41
+North Macedonia,59.26,59.17,55.12,76.3,30.57,12.24,24.91,79.59
+Northern Mariana Islands,0,64.03,44.44,0,0,36.43,0,33.33
+Norway,122.3,67.05,75.65,68.5,71.27,8.38,26.67,18.32
+Oman,160.38,81.94,65.11,67.22,39.3,2.81,20.54,34.71
+Pakistan,30.57,56.31,59.38,71.93,17.9,14.3,38.01,73.31
+Palau,0,73.24,0,0,0,23.2,0,14.37
+Palestine,49.62,57.24,52.36,0,38.29,6.71,48.5,65.03
+Panama,44.91,57.32,60.66,67.84,43.83,11.68,35.24,55.63
+Papua New Guinea,13.71,19.89,23.86,0,69.3,450.4,44.56,78.81
+Paraguay,41.24,39.84,64.52,92.24,23.19,15.68,42.83,66.16
+Peru,39.16,32.77,56.28,97.69,29.43,18.58,49.78,82.19
+Philippines,37.95,56.92,67.2,61.23,28.77,22.2,41.29,72.38
+Poland,93.75,70.99,57.92,75.9,39.35,11.03,31.79,55.51
+Portugal,62.54,68.17,72.42,97.31,41.72,13.97,28.65,28.8
+Puerto Rico,112.17,38.52,58.5,0,59.23,4.21,33.69,47.86
+Qatar,184.27,84.05,73.45,36.03,48.27,5.06,29.01,60
+Republic of the Congo,20.45,45.71,68.52,0,54.46,35.01,0,77.59
+Reunion,96.1,53.09,71.3,0,52.71,7.95,0,32.67
+Romania,73.36,67.82,56.51,77,34.66,10.16,33.36,58.61
+Russia,55.66,61.3,61.41,43.6,25.25,14.84,43.35,59.13
+Rwanda,20.5,72.81,72.87,99.74,37.05,446.83,15.67,39.22
+Saint Helena,0,92.65,69.44,0,0,0,15,15.52
+Saint Kitts And Nevis,0,59.98,50,0,0,20.27,15,36.21
+Saint Lucia,0,39.08,49.9,0,0,0.85,7,46.22
+Saint Vincent And The Grenadines,46.16,62.22,31.94,0,60.33,4.66,10,0
+Saint-Pierre And Miquelon,0,100,0,0,0,0,0,55.17
+Samoa,0,57.94,55.56,0,0,205.03,0,39.94
+San Marino,0,80.65,83.33,0,0,5.34,10,15.36
+Sao Tome And Principe,0,82.56,86.11,0,0,0,0,68.97
+Saudi Arabia,147.37,76.23,61.71,45.98,42.06,3.09,29.87,62.46
+Senegal,21.72,49.82,48.38,0,40.61,24.07,25,95.87
+Serbia,58.05,62.75,51.96,83.23,36.18,16.78,30.72,65.62
+Seychelles,34.19,55.01,63.19,0,59.88,4.66,29.33,36.71
+Sierra Leone,0,42.9,31.25,0,0,3.23,0,106.03
+Singapore,108.8,72.48,71.9,57.45,79.72,20.4,40.87,32.61
+Sint Maarten,46.37,68.09,56.48,0,65.56,6.92,0,79.48
+Slovakia,75.25,69.2,58.6,80.72,43.24,14.2,27.41,37.3
+Slovenia,85.89,76.17,66.26,76.11,47.58,13.09,25.39,22.25
+Solomon Islands,10.77,36.13,45.14,0,101.05,"'1,004.18'",36.67,79.55
+Somalia,28.41,35.86,40.49,0,40.56,360.1,29,63.41
+South Africa,123.08,25.36,63.83,95.25,31.3,3.21,38.61,56.56
+South Korea,107.47,75.36,82.78,68.39,59.94,21.06,40.32,60.93
+South Sudan,0,18.57,23.61,0,0,2.08,0,56.47
+Spain,101.41,63.51,77.26,94.04,44.41,8.28,26.76,35.7
+Sri Lanka,17.98,57.9,71.36,59.11,33.96,39.94,54.52,57.94
+Sudan,0,54.5,46.78,0,0,24.64,38.33,67.55
+Suriname,19.73,47.12,42.62,0,39.75,3.18,28.88,51.15
+Sweden,134.51,51.74,68.43,76.49,54.84,7.45,28.72,17.66
+Switzerland,165.31,73.69,71.5,79.24,101.18,10.94,33.28,23.06
+Syria,5.22,31.5,37.11,0,23.8,118.65,34.9,74.88
+Taiwan,101.65,82.89,86.5,84.38,44.79,20.89,32.81,64.31
+Tajikistan,23.92,55.6,61.9,0,24.6,16.11,27,54.02
+Tanzania,23.52,46.46,42.14,71.28,25.31,134.04,27.79,62.48
+Thailand,46.07,62.49,77.36,69.76,33.88,25.31,38.71,75.65
+Timor-Leste,259.09,57.93,52.69,0,45.57,4.13,25,60.35
+Togo,50.92,54.84,54.17,0,31.91,7.42,7,82.5
+Tonga,0,39.02,62.27,0,50.8,2.44,0,0
+Trinidad And Tobago,45.35,29.01,54.09,67.55,49.01,14.18,56.88,67.14
+Tunisia,33.55,55.23,57.17,93.24,25.71,13.06,34.39,70.08
+Turkey,52.08,58.74,71.22,93.26,35.37,11.05,43.81,64.29
+Turkmenistan,0,51.24,49.83,0,0,25.99,17.29,38.15
+Turks And Caicos Islands,0,51.12,54.63,0,0,0,0,32.76
+Tuvalu,0,81.52,100,0,0,0.55,0,0
+Uganda,10.33,45.88,50.05,98.41,47.97,"'1,075.92'",44.5,84.05
+Ukraine,47.67,53.13,55.74,70.69,24.38,13.88,37.92,62.16
+United Arab Emirates,132.31,84.43,70.63,45.84,53.8,6.77,35.77,47.98
+United Kingdom,125.05,51.88,72.92,87.41,59.67,8.75,34.74,40.47
+United States,153.02,50.74,67.86,79.14,65.69,3.54,32.91,36.61
+Uruguay,57.92,48.2,68.57,98.04,47.39,12.28,39.52,43.49
+Us Virgin Islands,74.23,40.06,45.37,0,99.27,11.78,15,15.27
+Uzbekistan,44.66,71.97,61.82,69.79,24.4,13.08,34.3,53.07
+Vanuatu,0,58.35,40.51,0,0,29.88,15,40.14
+Vatican City,0,46.18,100,0,0,0,0,46.32
+Venezuela,15.11,19.26,38.69,0,35.85,17.49,32.8,75.3
+Vietnam,44.49,59,61.32,71.24,26.85,24.77,29.62,84.19
+Wallis And Futuna,0,0,0,0,0,0,0,0
+Western Sahara,0,62.87,0,0,0,12.75,0,0
+Yemen,20.74,34.07,25.31,0,48.66,15.98,15,83.17
+Zambia,22.32,54.39,54.44,0,36.74,72.42,38.86,80.9
+Zimbabwe,28.76,39.31,44.8,96.76,35.36,17.35,27.79,78.53
